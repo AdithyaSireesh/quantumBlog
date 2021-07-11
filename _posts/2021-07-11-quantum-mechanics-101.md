@@ -59,10 +59,20 @@ Without going through too much of the details, it is observed that
 This is due to the inteference between the waves from both the holes *H<sub>1</sub>* & *H<sub>2</sub>*. At some points, the waves intefere constructively thus increating the intensity of the way, and at other points, the waves intefere distructively thus producing a total intensity of the wave at that point to be zero.
 
 ## Electrons..
-With these two experiments giving us details of how particles and waves behave for the double slit experiment, we can now establish whether a electron is a wave or a particle. This is just like Young's double slit experiment.
+With these two experiments giving us details of how particles and waves behave for the double slit experiment, we can now establish whether an electron is a wave or a particle. This is just like Young's double slit experiment.
 
 
-TBC ...
+### Single hole
+Shootign the electon through only one hole (either just *H<sub>1</sub>* or just *H<sub>2</sub>*), we observe nothing out of the ordinary. 
+
+### 2 holes
+When both holes are open, we notice inteferece patterns on the absorber back wall *A<sub>1</sub>*. So, this establishs that an electron is a particle, right? Let's try something else
+
+### Let there be light :P
+Let's shine some light on the 2 holes to try and establish which hole the electron goes through.
+
+When we do this, we actually stop observing interference patterns. Somehow, by gaining the knowledge of the path the electron takes, we end up getting a completely different result. A results which indicates that the electron now behaves like the bullet in the first experiment. Changing factors such as the intensity & frequency of light don't alter the fact that the inteference patterns can no longer be observed. Somehow, this fundamental property. These results point towards some basic limitation of nature which leads to the uncertainty principal: "You cannot at the same time estabish the trajectory of the electron & not distrub the interference patterns" (this is nowhere close to the formal definition of the uncertainty principle)
+
 ###### \* <em>this may not be completely accurate. There are theories stating that the classical rules we've established for the world observable to the naked eye is just a really good approximation of the underlying quantum nature of our universe.</em>
 
 
